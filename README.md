@@ -1,2 +1,2 @@
 # muse
-Experimental templating library
+Experimental Templating Library
