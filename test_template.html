@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Muse Test</title>
+</head>
+<body>
+<h1><mu:val ${title}/></h1>
+<mu:foreach item in ${items}>
+    <div>
+        <p>Number <mu:val ${item.value}/></p>
+        <p>Is named <mu:val ${item.name}/></p>
+    </div>
+</mu:foreach>
+</body>
+</html>

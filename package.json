@@ -1,0 +1,14 @@
+{
+  "name": "muse",
+  "version": "1.0.0",
+  "description": "experimental templating library",
+  "main": "muse.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "SAG",
+  "license": "ISC",
+  "dependencies": {
+    "neon": "^2.0.0"
+  }
+}
